@@ -1,0 +1,12 @@
+{
+  "name": "automationnation",
+  "description": "AutomationNation plugins for Claude: live web data from Google Flights, Hotels, Shopping, News, Jobs and Trends, YouTube transcripts, leads, ads, reviews and AI visibility.",
+  "owner": { "name": "AutomationNation", "url": "https://retracn.github.io/automationnation-actors/" },
+  "plugins": [
+    {
+      "name": "automationnation-data-tools",
+      "source": "./",
+      "description": "Live web data for Claude (flights, hotels, shopping, news, jobs, trends, YouTube transcripts, leads, ads, reviews, AI visibility) with skills for travel, research, competitor ads, lead generation and AI visibility audits."
+    }
+  ]
+}

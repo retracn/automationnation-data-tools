@@ -1,0 +1,11 @@
+{
+  "name": "automationnation-data-tools",
+  "displayName": "AutomationNation Data Tools",
+  "version": "1.0.0",
+  "description": "Live web data for Claude: Google Flights and Hotels prices, Google Shopping, News, Jobs and Trends, YouTube transcripts, local business leads, competitors' Google ads, app reviews and AI-search visibility, with skills for travel planning, video research, market and competitor research, lead generation and AI visibility audits.",
+  "author": { "name": "AutomationNation", "url": "https://retracn.github.io/automationnation-actors/" },
+  "homepage": "https://github.com/retracn/automationnation-data-tools",
+  "repository": "https://github.com/retracn/automationnation-data-tools",
+  "license": "MIT",
+  "keywords": ["flights", "hotels", "shopping", "news", "jobs", "trends", "youtube", "transcripts", "leads", "ads", "reviews", "ai-visibility", "research"]
+}
